@@ -3,7 +3,7 @@
     "dependencies": [
         {
             "guid": "template-application-ui-angular-mongodb",
-            "url": "https://github.com/dirigiblelabs/template-application-ui-angular-mongodb.git",
+            "url": "https://github.com/dirigiblelabs/template-application-rest-mongodb.git",
             "type": "git",
             "branch": "master"
         }
